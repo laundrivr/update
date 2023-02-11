@@ -16,5 +16,13 @@
             <enclosure url="https://apps.apple.com/us/app/laundrivr/id6444505198" sparkle:version="1.0.6" sparkle:os="ios" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
+        
+        <item>
+            <title>Version 1.0.7+11</title>
+            <description>Removed sales, making the app free</description>
+            <pubDate>Sat, 1 Feb 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/laundrivr/id6444505198" sparkle:version="1.0.7" sparkle:os="ios" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+        </item>
     </channel>
 </rss>
