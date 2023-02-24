@@ -58,7 +58,7 @@
             <title>Version 1.0.9+13</title>
             <description>Added account management features</description>
             <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.laundrivr.laundrivr" sparkle:version="1.098" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.laundrivr.laundrivr" sparkle:version="1.0.9" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
     </channel>
