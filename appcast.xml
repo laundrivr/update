@@ -61,5 +61,20 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.laundrivr.laundrivr" sparkle:version="1.0.9" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
+        
+        <item>
+            <title>Version 1.0.10+14</title>
+            <description>Fixed an issue where signing into the account management website was not possible due to a permission bug.</description>
+            <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/laundrivr/id6444505198" sparkle:version="1.0.10" sparkle:os="ios" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+        </item>
+        <item>
+            <title>Version 1.0.10+14</title>
+            <description>Fixed an issue where signing into the account management website was not possible due to a permission bug.</description>
+            <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.laundrivr.laundrivr" sparkle:version="1.0.10" sparkle:os="android" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+        </item>
     </channel>
 </rss>
